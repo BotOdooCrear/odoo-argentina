@@ -9,7 +9,7 @@
     'summary': '',
     'depends': [
         'l10n_ar',
-        # 'l10n_ar_withholding',
+        'l10n_latam_check',
     ],
     'data': [
         'data/res_currency_data.xml',
